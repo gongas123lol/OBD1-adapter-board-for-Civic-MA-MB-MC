@@ -1,5 +1,5 @@
 
-### **STILL W.I.P. IM NOT RESPONSIBLE FOR ANY PROBLEM YOU MIGHT HAVE AND POSSIBLE DAMAGE TO THE VEHICLE. ITS NOT BEEN TESTED IN THE CAR YET.**
+### **STILL W.I.P. IM NOT RESPONSIBLE FOR ANY PROBLEM YOU MIGHT HAVE AND POSSIBLE DAMAGE TO THE VEHICLE.**
 ### **I AM A COMPSCI GRADUATE, NOT AN ELETRICAL ENGINEER, THERE MIGHT BE SOME ERRORS IN MY IMPLEMENTATION.**
 
 ## Speeduino v0.4.X adapter for OBD1 vehicles
@@ -15,6 +15,15 @@ This project was made in altium designer, might one day put it in kicad but i do
 
 ## the board will look like this:
 ![image](https://github.com/user-attachments/assets/a9731034-c55a-4e95-91d3-ba7a5337a097)
+
+### 27/5 : Tested and working-ish
+The car seemed to start just fime, altough i forgot to add ground for sensors, in which, i made it using a cable as a jumper. all is good.
+Sorry for bad quality picture.
+
+I think its a good place to add that you need a "JDM" style VR conditioner. official designs using max992 chip isnt really suited for this aplication.
+
+![image](https://github.com/user-attachments/assets/73624382-c65b-4450-93af-459a8ca3eb67)
+
 
 you can find the connector for cheap on aliexpress (many places its discontinued)
 https://pt.aliexpress.com/item/1005006126524106.html?spm=a2g0o.order_list.order_list_main.5.65a3caa4wb4JMO&gatewayAdapt=glo2bra
