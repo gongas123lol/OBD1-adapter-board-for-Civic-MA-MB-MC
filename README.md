@@ -1,10 +1,8 @@
 
 ### **STILL W.I.P. IM NOT RESPONSIBLE FOR ANY PROBLEM YOU MIGHT HAVE AND POSSIBLE DAMAGE TO THE VEHICLE.**
-### **I AM A COMPSCI GRADUATE, NOT AN ELETRICAL ENGINEER, THERE MIGHT BE SOME ERRORS IN MY IMPLEMENTATION.**
-
 ## Speeduino v0.4.X adapter for OBD1 vehicles
 
-This repo is dedicated for an adapter to Honda OBD1 (civic MA/MB and probably MC // british made Civic. maybe also PNP for japan made ones like eg/ek with adapter) PnP connector to interface with speeduino 0.4.X.
+This repo is dedicated for an adapter to Honda OBD1 (civic EG/MA/MB/MC/EK EJ(with adapter harness) PnP connector to interface with speeduino 0.4.X.
 This project was made in altium designer, might one day put it in kicad but i dont really have the skills in kicad yet for it. in a bit i will upload the Gerber files.
 
 - In this PCB, its used the "OBD1" 64pin connector PN:174518-7.
@@ -20,7 +18,7 @@ This project was made in altium designer, might one day put it in kicad but i do
 The car seemed to start just fime, altough i forgot to add ground for sensors, in which, i made it using a cable as a jumper. all is good.
 Sorry for bad quality picture.
 
-I think its a good place to add that you need a "JDM" style VR conditioner. official designs using max992 chip isnt really suited for this aplication.
+I think its a good place to add that you need a "JDM" style VR conditioner. official designs using max9926 chip isnt really suited for this aplication.
 
 ![image](https://github.com/user-attachments/assets/73624382-c65b-4450-93af-459a8ca3eb67)
 
